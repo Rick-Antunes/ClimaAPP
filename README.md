@@ -1,12 +1,26 @@
-** Olá seja bem vindo ao meu projeto ClimaAPP, 
-é um site bem simples para descobrir o clima em sua cidade
-ou uma cidade de sua escolha.
+ClimaAPP 🌤️
+Aplicação web para consultar o clima de qualquer cidade.
+Como Usar
+Acesse o site: comoestaoclima.netlify.app
+Ou execute localmente:
 
+Clone ou baixe este repositório
+Abra o arquivo index.html no navegador
+Digite o nome da cidade e busque
 
-Index --> Estrutura do site
-netlify --> Comptabilidade
-script --> Arquivo responsável pelas funcionalidades do site
-style --> responsável pela aparência e tudo visual
+Estrutura
 
-Você pode executa-lo ou abrir o site 
-** "https://comoestaoclima.netlify.app/" **
+index.html - Estrutura do site
+script.js - Funcionalidades
+style.css - Estilos e design
+README.md - Este arquivo
+
+Tecnologias
+
+HTML5
+CSS3
+JavaScript
+API de clima
+
+Compatibilidade
+Funciona em navegadores modernos (Chrome, Firefox, Safari, Edge) e em dispositivos móveis.
